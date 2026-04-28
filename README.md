@@ -1,22 +1,25 @@
-Personal Bio Card
+## Personal Bio Card
 
 A simple interactive bio card that displays personal information with a toggle to show and hide a fun fact section.
 
+---
 
-💡 How It Works
+## How It Works
 
 - A card displays your name and a short bio
 - Click the "Show Fun Fact" button to reveal a hidden fun fact
 - Click again to hide it
 
-🛠️ Built With
+---
+
+## Built With
 
 - HTML
 - CSS
 - JavaScript (Vanilla)
+---
 
-
-📚 What I Learned
+## What I Learned
 
 - How to show and hide elements using `classList.toggle()`
 - How to change button text dynamically based on state
@@ -25,7 +28,7 @@ A simple interactive bio card that displays personal information with a toggle t
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 personal-bio-card/
@@ -37,7 +40,7 @@ personal-bio-card/
 
 ---
 
-## 🏃 How to Run Locally
+## How to Run Locally
 
 1. Clone this repository
    ```bash
@@ -49,6 +52,6 @@ No installations or dependencies needed.
 
 ---
 
-## 🙋 About
+## About
 
 This is **Project #2** of my JavaScript learning journey — built to practice DOM manipulation and toggling element visibility, a pattern used everywhere on the web.
