@@ -2,9 +2,9 @@
 
 A simple interactive bio card that displays personal information with a toggle to show and hide a fun fact section.
 
-## 🚀 Live Demo
+## Live Demo
 
-[Click here to try it out](https://priyanshuroy-543.github.io/personal-bio-card)
+[Click here](https://priyanshuroydev.github.io/Personal-Bio-Card/)
 
 ---
 
